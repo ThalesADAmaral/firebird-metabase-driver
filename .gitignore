@@ -1,0 +1,10 @@
+# artefatos de build (publique o jar em GitHub Releases, não no repositório)
+dist/
+lib/
+
+# sessão do Metabase usada pelos testes
+testes/sid.txt
+__pycache__/
+
+# configuração da IDE
+.idea/
